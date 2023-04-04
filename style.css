@@ -1,0 +1,84 @@
+.l1 {
+    position: absolute;
+width: 53px;
+height: 24px;
+left: 600px;
+top: 330px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.c1 {
+    position: absolute;
+width: 710px;
+height: 100px;
+left: 600px;
+top: 358px;
+
+background: #3EABFB;
+}
+
+.s2 {
+    position: absolute;
+width: 60px;
+height: 24px;
+left: 600px;
+top: 512px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.c2 {
+    position: absolute;
+width: 710px;
+height: 100px;
+left: 600px;
+top: 540px;
+
+background: #3EABFB;
+}
+
+.x1 {
+    position: absolute;
+width: 345px;
+height: 81px;
+left: 600px;
+top: 768px;
+font-size: 20px;
+
+background: #02AFBA;
+}
+
+.x2 {
+    position: absolute;
+width: 345px;
+height: 81px;
+left: 980px;
+top: 768px;
+font-size: 20px;
+
+background: #02AFBA;
+}
+
+.imagem {
+    position: absolute;
+width: 133px;
+height: 151px;
+left: 885px;
+top: 166px;
+
+background: url(redemoinho1.png);
+}
+
